@@ -11,5 +11,5 @@
 *   **cv_analyzer** — интеллектуальная система парсинга и анализа резюме.
 *   **ReportGenerator** — генератор многостраничных отчетов.
 
-### 🛠️ Что под капотом
+### ЯП
 [![My Skills](https://skillicons.dev/icons?i=rust,py,cs,c,cpp,js)](https://skillicons.dev)
